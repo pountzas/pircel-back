@@ -3,5 +3,5 @@
 Run the development server:
 
 ```bash
-node server.js
+npm start
 ```
